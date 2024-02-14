@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-Allow: /
-Sitemap: https://bart-blog.rust-edu.github.io/sitemap.xml
