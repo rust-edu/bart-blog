@@ -1,0 +1,3 @@
+[submodule "themes/dinkleberg"]
+	path = themes/dinkleberg
+	url = http://github.com/rust-br/dinkleberg.git
